@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "369448371697",
+    "firebase_url": "https://hasi-c33b3.firebaseio.com",
+    "project_id": "hasi-c33b3",
+    "storage_bucket": "hasi-c33b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369448371697:android:c81f5365adae9675867050",
+        "android_client_info": {
+          "package_name": "com.aapki.hasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369448371697-muu9fvfq9pp8nq3gq6jh3qgvupvtcdq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aapki.hasi",
+            "certificate_hash": "e11688ec624bb580b26dc62b6dde3b12fd139b8e"
+          }
+        },
+        {
+          "client_id": "369448371697-pvv72j2b68b4dola98p7c76erhc0b05f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aapki.hasi",
+            "certificate_hash": "4441a528b1f857ee64026a795d41aaa770c34281"
+          }
+        },
+        {
+          "client_id": "369448371697-pp3m9cl3qiu6895hk293a5grgj4thfep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aapki.hasi",
+            "certificate_hash": "1f9a5e779bd9037eecede2efd2c5d50f3fdfc8e7"
+          }
+        },
+        {
+          "client_id": "369448371697-7tdg6m5mg4694ojslnrr6cuhh61708sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQut95hrKPuorYI3uXcOig9pwzCF150mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369448371697-p0c45nknt8ntrqa90j4alkpsm8j4de7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
